@@ -10,4 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/klu2300031662/LeetCode/tree/master/0038-count-and-say) |
+| [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
+## Array
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
+## Hash Table
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
