@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/klu2300031662/LeetCode/tree/master/1070-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/klu2300031662/LeetCode/tree/master/1158-market-analysis-i) |
 ## String
 |  |
 | ------- |
