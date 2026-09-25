@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/klu2300031662/LeetCode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/klu2300031662/LeetCode/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/klu2300031662/LeetCode/tree/master/0575-distribute-candies) |
 ## Greedy
 |  |
 | ------- |
