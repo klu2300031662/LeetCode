@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/klu2300031662/LeetCode/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/klu2300031662/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/klu2300031662/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/klu2300031662/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## String
 |  |
 | ------- |
