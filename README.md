@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/klu2300031662/LeetCode/tree/master/0038-count-and-say) |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
