@@ -19,8 +19,8 @@ windowed as(
 )
 
 select visited_on,
-        amount,
-        round(amount/7, 2) as average_amount
+       amount,
+       round(amount/7, 2) as average_amount
 from windowed
 where rn >= 7
 order by visited_on
