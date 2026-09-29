@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/klu2300031662/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/klu2300031662/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/klu2300031662/LeetCode/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/klu2300031662/LeetCode/tree/master/1341-movie-rating) |
 ## String
 |  |
 | ------- |
