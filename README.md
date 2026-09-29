@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/klu2300031662/LeetCode/tree/master/0038-count-and-say) |
+| [0383-ransom-note](https://github.com/klu2300031662/LeetCode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/klu2300031662/LeetCode/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/klu2300031662/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/klu2300031662/LeetCode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/klu2300031662/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
