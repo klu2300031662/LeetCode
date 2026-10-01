@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/klu2300031662/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/klu2300031662/LeetCode/tree/master/0575-distribute-candies) |
@@ -66,13 +67,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/klu2300031662/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/klu2300031662/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/klu2300031662/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
