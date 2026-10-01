@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/klu2300031662/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/klu2300031662/LeetCode/tree/master/1341-movie-rating) |
 | [1907-count-salary-categories](https://github.com/klu2300031662/LeetCode/tree/master/1907-count-salary-categories) |
+| [3220-odd-and-even-transactions](https://github.com/klu2300031662/LeetCode/tree/master/3220-odd-and-even-transactions) |
 ## String
 |  |
 | ------- |
