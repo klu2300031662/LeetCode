@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/klu2300031662/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/klu2300031662/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/klu2300031662/LeetCode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
