@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/klu2300031662/LeetCode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/klu2300031662/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/klu2300031662/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
