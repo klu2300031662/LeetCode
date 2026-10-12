@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/klu2300031662/LeetCode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/klu2300031662/LeetCode/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/klu2300031662/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/klu2300031662/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/klu2300031662/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/klu2300031662/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/klu2300031662/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/klu2300031662/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/klu2300031662/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/klu2300031662/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/klu2300031662/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/klu2300031662/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Greedy
 |  |
 | ------- |
