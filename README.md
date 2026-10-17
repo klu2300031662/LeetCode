@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/klu2300031662/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/klu2300031662/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/klu2300031662/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
