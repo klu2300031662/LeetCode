@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/klu2300031662/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [1070-product-sales-analysis-iii](https://github.com/klu2300031662/LeetCode/tree/master/1070-product-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/klu2300031662/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1158-market-analysis-i](https://github.com/klu2300031662/LeetCode/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/klu2300031662/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/klu2300031662/LeetCode/tree/master/1174-immediate-food-delivery-ii) |
