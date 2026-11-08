@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/klu2300031662/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/klu2300031662/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/klu2300031662/LeetCode/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/klu2300031662/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/klu2300031662/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/klu2300031662/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/klu2300031662/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
