@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/klu2300031662/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/klu2300031662/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/klu2300031662/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0806-number-of-lines-to-write-string](https://github.com/klu2300031662/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/klu2300031662/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/klu2300031662/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/klu2300031662/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/klu2300031662/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0806-number-of-lines-to-write-string](https://github.com/klu2300031662/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/klu2300031662/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/klu2300031662/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/klu2300031662/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
