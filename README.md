@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/klu2300031662/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/klu2300031662/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/klu2300031662/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/klu2300031662/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/klu2300031662/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
