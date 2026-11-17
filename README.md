@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/klu2300031662/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/klu2300031662/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/klu2300031662/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/klu2300031662/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/klu2300031662/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/klu2300031662/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
