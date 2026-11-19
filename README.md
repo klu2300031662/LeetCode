@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/klu2300031662/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0806-number-of-lines-to-write-string](https://github.com/klu2300031662/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/klu2300031662/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/klu2300031662/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/klu2300031662/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/klu2300031662/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/klu2300031662/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/klu2300031662/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/klu2300031662/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/klu2300031662/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/klu2300031662/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Enumeration
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/klu2300031662/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/klu2300031662/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
